@@ -1,2 +1,2 @@
-[{"version":"1","link":"https://www.mediafire.com/download/rko2wv32e9bbkgk"}
-{"Lucky Number":"25"}]
+[{"version":"1",
+"link":"https://www.mediafire.com/download/rko2wv32e9bbkgk"}]
